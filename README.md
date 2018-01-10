@@ -4,7 +4,8 @@ Study notes for Docker Certified Associate (DCA) certification exam.
 
 https://success.docker.com/certification
 
-## Domain 1: Orchestration (25%)
+## [Domain 1: Orchestration (25%)](../master/01-Orchestration.md)
+
 	• Complete the setup of a swarm mode cluster, with managers and worker nodes
 	• State the differences between running a container vs running a service
 	• Demonstrate steps to lock a swarm cluster
@@ -22,7 +23,7 @@ https://success.docker.com/certification
 	• Paraphrase the importance of quorum in a swarm cluster
 	• Demonstrate the usage of templates with "docker service create"
 
-## Domain 2: Image Creation, Management, and Registry (20%)
+## [Domain 2: Image Creation, Management, and Registry (20%)](../master/02-Image-creation-management-and-registry.md)
 	• Describe Dockerfile options [add, copy, volumes, expose, entrypoint, etc]
 	• Show the main parts of a Dockerfile
 	• Give examples on how to create an efficient image via a Dockerfile
